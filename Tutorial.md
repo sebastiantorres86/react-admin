@@ -238,7 +238,7 @@ export const UserList = props => (
 
 ![](images/tutorial_url_field.png)
 
-En react-admin, los campos son componentes simples de React. En tiempo de ejecución, reciben el `record` btenido de la API (p.Ej. `{ "id": 2, "name": "Ervin Howell", "website": "anastasia.net", ... }`) Y el campo source que deben mostrar (p.Ej. `website`).
+En react-admin, los campos son componentes simples de React. En tiempo de ejecución, reciben el `record` obtenido de la API (p.Ej. `{ "id": 2, "name": "Ervin Howell", "website": "anastasia.net", ... }`) Y el campo source que deben mostrar (p.Ej. `website`).
 
 Eso significa que escribir un componente de campo personalizado es realmente sencillo. Por ejemplo, aquí hay una versión simplificada de `UrlField`:
 
