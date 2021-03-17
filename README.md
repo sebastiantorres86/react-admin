@@ -14,7 +14,7 @@ yarn add react-admin
 
 ## Uso
 
-Lea el [tutorial]() para una introducción de 30 minutos. Después de eso, continúe leyendo la [documentación]() o consulte el [código fuente de la demostración](https://github.com/marmelab/react-admin/tree/master/examples/demo) para ver un ejemplo de uso.
+Lea el [tutorial](Tutorial.md) para una introducción de 30 minutos. Después de eso, continúe leyendo la [documentación]() o consulte el [código fuente de la demostración](https://github.com/marmelab/react-admin/tree/master/examples/demo) para ver un ejemplo de uso.
 
 ## Da un vistazo
 
